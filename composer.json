@@ -25,7 +25,7 @@
     "prefer-stable": true,
     "require": {
         "php": "^8.1",
-        "ijodkor/laravel-api-response": "^1.2|dev-main",
+        "ijodkor/laravel-api-response": "dev-main",
         "illuminate/contracts": "^9.21|^10.0|^11.0|^12.0|^13.0",
         "illuminate/support": "^9.21|^10.0|^11.0|^12.0|^13.0",
         "spatie/laravel-package-tools": "^1.16|^1.18",
